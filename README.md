@@ -2,7 +2,7 @@
 
 Welcome to Biz Ruby, a community of developers at mid-sized Rails shops who wish to share their experience solving real-world problems.
 
-This is an experiment at sharing this information in between more formal conferences. Our primary mechanism is the **Experience Report**, a one tech-talk with a light-weight presentation with Q&A. We hope to share information, solve problems, and build a network.
+This is an experiment at sharing this information in between more formal conferences. Our primary mechanism is the **Experience Report**, a one hour tech-talk with a light-weight presentation with Q&A. We hope to share information, solve problems, and build a network.
 
 ## How to use this Repo
 
