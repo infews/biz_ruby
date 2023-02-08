@@ -1,7 +1,7 @@
 # Biz Ruby Experience Reports
 _**An Irregular Unconference for Mid-sized Ruby and Rails Shops**_
 
-Welcome to Biz Ruby, a community of developers at mid-sized Rails shops who wish to share their experience solving real-world problems.
+Welcome to Biz Ruby, a community of developers at mid-sized Rails shops who wish to share their experience solving real-world problems. More information & inspiration lives in the [Announcement discussion][kickoff].
 
 
 This is an experiment at sharing this information in between more formal conferences. Our primary mechanism is the **Experience Report**, a one hour tech-talk with a light-weight presentation with Q&A. We hope to share information, solve problems, and build a network.
@@ -36,3 +36,4 @@ Thanks for partipacting!
 
 
 [conduct]: https://confcodeofconduct.com/
+[kickoff]: https://github.com/infews/biz_ruby/discussions/3
